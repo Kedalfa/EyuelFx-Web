@@ -23,7 +23,7 @@ This is the official website for EyuelFx Trading, a company that offers mentorsh
 Visit [Eyuelfxtrading.com](https://eyuelfxtrading.com/)to see the live website.
 
 ## Contact
-For any inquiries, please contact us through the provided social media links on the website.
+You can reach out to me directly on [Telegram](https://t.me/Kedalfa) or [Instagram](https://www.instagram.com/Kedalfa).
 
 ## License
 This project is proprietary and all rights are reserved. 
