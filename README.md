@@ -4,7 +4,7 @@
 I built this website for EyuelFx Trading, a company that offers mentorship and training for forex trading. My goal was to create a user-friendly and visually appealing platform that effectively communicates the company's services and mission.
 
 ## Overview
-This is the official website for EyuelFx Trading, a company that offers mentorship and training for forex trading. The website is live at [Eyuelfx.com](https://Eyuelfx.com).
+This is the official website for EyuelFx Trading, a company that offers mentorship and training for forex trading. The website is live at [Eyuelfxtrading.com](https://eyuelfxtrading.com/).
 
 ## Features
 - **Home Page**: Introduces the company and its services.
@@ -20,7 +20,7 @@ This is the official website for EyuelFx Trading, a company that offers mentorsh
 - GSAP (GreenSock Animation Platform)
 
 ## Live Website
-Visit [Eyuelfx.com](https://Eyuelfx.com) to see the live website.
+Visit [Eyuelfxtrading.com](https://eyuelfxtrading.com/)to see the live website.
 
 ## Contact
 For any inquiries, please contact us through the provided social media links on the website.
